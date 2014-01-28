@@ -10,7 +10,6 @@ This section is applicable to providers of Broadband Personal Communications Ser
 (b)
 <E T="03">Technical standard for hearing aid compatibility.</E>
 A wireless phone used for public mobile radio services is hearing aid compatible for the purposes of this section if it meets, at a minimum:
-<PRTPAGE P="20"/>
 </P>
 <P>
 (1) For radio frequency interference: U3 as set forth in the standard document ANSI C63.19-2001 “American National Standard for Methods of Measurement of Compatibility between Wireless Communication Devices and Hearing Aids, ANSI C63.19-2001” (published October 8, 2001—available for purchase from the American National Standards Institute); and
@@ -20,6 +19,9 @@ A wireless phone used for public mobile radio services is hearing aid compatible
 </P>
 <P>
 (3) Manufacturers must certify compliance with the test requirements and indicate the appropriate U-rating for the wireless phone as set forth in § 2.1033(d) of this chapter.
+</P>
+<P>
+(4) All factual questions of whether a wireless phone meets the technical standard of this subsection shall be referred for resolution to Chief, Office of Engineering and Technology, Federal Communications Commission, 445 12th Street SW., Washington, DC 20554.
 </P>
 <P>
 (c)
@@ -35,17 +37,45 @@ Phase-in for public mobile service handsets concerning radio frequency interfere
 (ii) Ensure at least 50 percent of their handset offerings for each air interface offered comply with § 20.19(b)(1) by February 18, 2008.
 </P>
 <P>
-(2) And each provider of public mobile service must:
+(2) And each provider of public mobile radio services must:
 </P>
 <P>
-(i) Include in their handset offerings at least two handset models per air interface that comply with § 20.19(b)(1) by September 16, 2005 and make available in each retail store owned or operated by the provider all of these handset models for consumers to test in the store; and
+(i)(A) Include in its handset offerings at least two handset models per air interface that comply with § 20.19(b)(1) by September 16, 2005, and make available in each retail store owned or operated by the provider all of these handset models for consumers to test in the store; or
 </P>
 <P>
-(ii) Ensure that at least 50 percent of their handset models for each air interface comply with § 20.19(b)(1) by February 18, 2008, calculated based on the total number of unique digital wireless handset models the carrier offers nationwide.
+(B) In the event a provider of public mobile radio services is using a TDMA air interface and plans to overbuild (
+<E T="03">i.e.</E>
+, replace) its network to employ alternative air interface(s), it must:
+</P>
+<P>
+(
+<E T="03">1</E>
+) Offer two handset models that comply with § 20.19(b)(1) by September 16, 2005, to its customers that receive service from the overbuilt (
+<E T="03">i.e.</E>
+, non-TDMA) portion of its network, and make available in each retail store it owns or operates all of these handset models for consumers to test in the store:
+<PRTPAGE P="21"/>
+</P>
+<P>
+(
+<E T="03">2</E>
+) Overbuild (
+<E T="03">i.e.</E>
+, replace) its entire network to employ alternative air interface(s), and
+</P>
+<P>
+(
+<E T="03">3</E>
+) Complete the overbuild by September 18, 2006; and
+</P>
+<P>
+(ii) Ensure that at least 50 percent of its handset models for each air interface comply with § 20.19(b)(1) by February 18, 2008, calculated based on the total number of unique digital wireless handset models the carrier offers nationwide.
 </P>
 <P>(3) Each Tier I carrier must:</P>
 <P>
-(i) Include in their handset offerings at least two handset models or 25 percent of the total number of unique digital wireless handset models offered by the carrier nationwide (calculated based on the total number of unique digital wireless handset models the carrier offers nationwide), whichever is greater, for each air interface that comply with § 20.19(b)(1) by September 16, 2005, and make available in each retail store owned or operated by the carrier all of these handset models for consumers to test in the store; and
+(i)(A) Include in its handset offerings four digital wireless handset models per air interface or twenty-five percent of the total number of digital wireless handset models offered by the carrier nationwide (calculated based on the total number of unique digital wireless handset models the carrier offers nationwide) per air interface that comply with § 20.19(b)(1) by September 16, 2005, and make available in each retail store owned or operated by the carrier all of these handset models for consumers to test in the store; and
+</P>
+<P>
+(B) Include in its handset offerings five digital wireless handset models per air interface or twenty-five percent of the total number of digital wireless handset models offered by the carrier nationwide (calculated based on the total number of unique digital wireless handset models the carrier offers nationwide) per air interface that comply with § 20.19(b)(1) by September 16, 2006, and make available in each retail store owned or operated by the carrier all of these handset models for consumers to test in the store; and
 </P>
 <P>
 (ii) Ensure that at least 50 percent of their handset models for each air interface comply with § 20.19(b)(1) by February 18, 2008, calculated based on the total number of unique digital wireless phone models the carrier offers nationwide.
@@ -66,9 +96,7 @@ Phase-in for public mobile service handsets concerning inductive coupling.
 (1) Manufacturers or mobile service providers that offer two or fewer digital wireless handsets in the U.S. are exempt from the requirements of this section. For mobile service providers that obtain handsets only from manufacturers that offer two or fewer digital wireless phone models in the U.S., the service provider would likewise be exempt from the requirements of this section.
 </P>
 <P>
-(2) Manufacturers or mobile service providers that offer three digital wireless handset models, must make at least one compliant phone model in two years. Mobile service providers that obtain handsets only from manufacturers that offer three digital wireless phone models in the U.S. would be
-<PRTPAGE P="21"/>
-required to offer at least one compliant handset model.
+(2) Manufacturers or mobile service providers that offer three digital wireless handset models, must make at least one compliant phone model in two years. Mobile service providers that obtain handsets only from manufacturers that offer three digital wireless phone models in the U.S. would be required to offer at least one compliant handset model.
 </P>
 <P>
 (f)
@@ -78,14 +106,12 @@ Handsets used with public mobile services that are hearing aid compatible, as de
 <P>
 (g)
 <E T="03">Enforcement.</E>
-Enforcement of this section is hereby delegated to those states which adopt this section and provide for enforcement. The procedures followed by a state to enforce this section shall provide a 30-day period after a complaint is filed, during which time state personnel shall attempt to resolve a dispute on an informal basis. If a state has not adopted or incorporated this section, or failed to act within 6 months from the filing of a complaint with the state public utility commission, the Commission will accept such complaints. A written notification to the complainant that the state believes action is unwarranted is not a failure to act. The procedures set forth in part 68, subpart E of this chapter are to be followed.
+Enforcement of this section is hereby delegated to those states which adopt this section and provide for enforcement. The procedures followed by a state to enforce this section shall provide a 30-day period after a complaint is filed, during which time state personnel shall attempt to resolve a dispute on an informal basis. If a state has not adopted or incorporated this section, or failed to act within 6 months from the filing of a complaint with the state public utility commission, the Commission will accept such complaints. A written notification to the complainant that the state believes action is unwarranted is not a failure to act. The procedures set
+<PRTPAGE P="22"/>
+forth in part 68, subpart E of this chapter are to be followed.
 </P>
-<CITA>[68 FR 54175, Sept. 16, 2003]</CITA>
-<EFFDNOTP>
-<HD SOURCE="HED">Effective Date Note:</HD>
-<P>
-At 68 FR 54175, Sept. 16, 2003, § 20.19 was added, effective Nov. 17, 2003.
-</P>
-</EFFDNOTP>
+<CITA>
+[68 FR 54175, Sept. 16, 2003, as amended at 70 FR 43325, July 27, 2005]
+</CITA>
 </SECTION>
 <SECTION>
