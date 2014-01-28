@@ -2,116 +2,454 @@
 <SECTNO>§ 20.19</SECTNO>
 <SUBJECT>Hearing aid-compatible mobile handsets.</SUBJECT>
 <P>
-(a)
-<E T="03">Scope of section.</E>
-This section is applicable to providers of Broadband Personal Communications Services (part 24, subpart E of this chapter), Cellular Radio Telephone Service (part 22, subpart H of this chapter), and Specialized Mobile Radio Services in the 800 MHz and 900 MHz bands (included in part 90, subpart S of this chapter) if such providers offer real-time, two-way switched voice or data service that is interconnected with the public switched network and utilizes an in-network switching facility that enables the provider to reuse frequencies and accomplish seamless hand-offs of subscriber calls. This section also applies to the manufacturers of the wireless phones used in delivery of these services.
+(a) Scope of section; definitions. (1) The hearing aid compatibility requirements of this section apply to providers of digital CMRS in the United States to the extent that they offer real-time, two-way switched voice or data service that is interconnected with the public switched network and utilizes an in-network switching facility that enables the provider to reuse frequencies and accomplish seamless hand-offs of subscriber calls, and such service is provided over frequencies in the 800-950 MHz or 1.6-2.5 GHz bands using any air interface for which technical standards are stated in the standard document “American National Standard Methods of Measurement of Compatibility Between Wireless Communication Devices and Hearing Aids,” American National Standards Institute (ANSI) C63.19-2007 (June 8, 2007).
+</P>
+<P>
+(2) The requirements of this section also apply to the manufacturers of the wireless handsets that are used in delivery of the services specified in paragraph (a)(1) of this section.
+</P>
+<P>
+(3)
+<E T="03">Definitions</E>
+. For purposes of this section:
+</P>
+<P>
+(i)
+<E T="03">Manufacturer</E>
+refers to a wireless handset manufacturer to which the requirements of this section apply.
+</P>
+<P>
+(ii)
+<E T="03">Model</E>
+refers to a wireless handset device that a manufacturer has designated as a distinct device model, consistent with its own marketing practices. However, if a manufacturer assigns different model device designations solely to distinguish units sold to different carriers, or to signify other distinctions that do not relate to either form, features, or capabilities, such designations shall not count as distinct models for purposes of this section.
+</P>
+<P>
+(iii)
+<E T="03">Service provider</E>
+refers to a provider of digital CMRS to which the requirements of this section apply.
+</P>
+<P>
+(iv)
+<E T="03">Tier I carrier</E>
+refers to a CMRS provider that offers such service nationwide.
 </P>
 <P>
 (b)
-<E T="03">Technical standard for hearing aid compatibility.</E>
-A wireless phone used for public mobile radio services is hearing aid compatible for the purposes of this section if it meets, at a minimum:
+<E T="03">Hearing aid compatibility; technical standards.</E>
+A wireless handset used for digital CMRS only over the frequency bands and air interfaces referenced in paragraph (a)(1) of this section is hearing aid-compatible with regard to radio frequency interference or inductive coupling if it meets the applicable technical standard(s) set forth in paragraphs (b)(1) and (b)(2) of this section for all frequency bands and air interfaces over which it operates, and the handset has been certified as compliant with the test requirements for the applicable standard pursuant to § 2.1033(d) of this chapter. A wireless handset that incorporates a Wi-Fi air interface is hearing aid-compatible if the handset otherwise satisfies the requirements of this paragraph.
+</P>
+<P>(1) For radio frequency interference.</P>
+<P>
+(i)
+<E T="03">Applicable technical standards prior to 2010.</E>
+Beginning June 6, 2008 and until January 1, 2010, a wireless handset submitted for equipment certification or for a permissive change relating to hearing aid compatibility must meet, at a minimum, the M3 rating associated with the technical standard set forth in either the standard document “American National Standard Methods of Measurement of Compatibility Between Wireless Communication Devices and Hearing Aids,” ANSI C63.19-2006 (June 12, 2006) or ANSI C63.19-2007 (June 8, 2007)—each available for purchase from the American National Standards Institute. Any grants of certification issued before June 6, 2008 under previous versions of ANSI C63.19 remain valid for hearing aid compatibility purposes.
 </P>
 <P>
-(1) For radio frequency interference: U3 as set forth in the standard document ANSI C63.19-2001 “American National Standard for Methods of Measurement of Compatibility between Wireless Communication Devices and Hearing Aids, ANSI C63.19-2001” (published October 8, 2001—available for purchase from the American National Standards Institute); and
+(ii)
+<E T="03">Applicable technical standards beginning in 2010.</E>
+On or after January 1, 2010, a wireless handset submitted for equipment certification or for a permissive change relating to hearing aid compatibility must meet, at a minimum, the M3 rating associated with the technical standard set forth in ANSI C63.19-2007 (June 8, 2007). Any grants of certification issued before January 1, 2010, under the earlier
+<PRTPAGE P="22"/>
+versions of ANSI C63.19 remain valid for hearing aid compatibility purposes.
+</P>
+<P>(2) For inductive coupling.</P>
+<P>
+(i)
+<E T="03">Applicable technical standards prior to 2010.</E>
+Beginning June 6, 2008 and until January 1, 2010, a wireless handset submitted for equipment certification or for a permissive change relating to hearing aid compatibility must meet, at a minimum, the T3 rating associated with the technical standard set forth in either the standard document “American National Standard Methods of Measurement of Compatibility Between Wireless Communication Devices and Hearing Aids,” ANSI C63.19-2006 (June 12, 2006) or ANSI C63.19-2007 (June 8, 2007). Any grants of certification issued before June 6, 2008 under previous versions of ANSI C63.19 remain valid for hearing aid compatibility purposes.
 </P>
 <P>
-(2) For inductive coupling: U3T rating as set forth in the standard document ANSI C63.19-2001 “American National Standard for Methods of Measurement of Compatibility between Wireless Communication Devices and Hearing Aids, ANSI C63.19-2001” (published October 8, 2001—available for purchase from the American National Standards Institute).
+(ii)
+<E T="03">Applicable technical standards beginning in 2010.</E>
+On or after January 1, 2010, a wireless handset submitted for equipment certification or for a permissive change relating to hearing aid compatibility must meet, at a minimum, the T3 rating associated with the technical standard set forth in ANSI C63.19-2007 (June 8, 2007). Any grants of certification issued before January 1, 2010, under the earlier versions of ANSI C63.19 remain valid for hearing aid compatibility purposes.
+</P>
+<P>(3) [Reserved]</P>
+<P>
+(4) All factual questions of whether a wireless handset meets the technical standard(s) of this paragraph shall be referred for resolution to the Chief, Office of Engineering and Technology, Federal Communications Commission, 445 12th Street, SW., Washington, DC 20554.
 </P>
 <P>
-(3) Manufacturers must certify compliance with the test requirements and indicate the appropriate U-rating for the wireless phone as set forth in § 2.1033(d) of this chapter.
+(5) The following standards are incorporated by reference in this section: American National Standards Institute Accredited Standards Committee on Electromagnetic Compatibility, C63
+<E T="51">TM</E>
+, “American National Standard Methods of Measurement of Compatibility Between Wireless Communication Devices and Hearing Aids,” ANSI C63.19-2006 (June 12, 2006), Institute of Electrical and Electronics Engineers, Inc., publisher; and American National Standards Institute Accredited Standards Committee on Electromagnetic Compatibility, C63
+<E T="51">TM</E>
+, “American National Standard Methods of Measurement of Compatibility Between Wireless Communication Devices and Hearing Aids,” ANSI C63.19-2007 (June 8, 2007), Institute of Electrical and Electronics Engineers, Inc., publisher. These incorporations by reference were approved by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. These materials are incorporated as they exist on the date of the approval, and notice of any change in these materials will be published in the
+<E T="04">Federal Register.</E>
+The materials are available for inspection at the Federal Communications Commission (FCC), 445 12th St., SW., Reference Information Center, Room CY-A257, Washington, DC 20554 and at the National Archives and Records Administration (NARA). For information on the availability of these materials at NARA, call 202-741-6030, or go to:
+<E T="03">
+http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html
+</E>
+.
 </P>
 <P>
-(4) All factual questions of whether a wireless phone meets the technical standard of this subsection shall be referred for resolution to Chief, Office of Engineering and Technology, Federal Communications Commission, 445 12th Street SW., Washington, DC 20554.
+The materials are also available for purchase from IEEE Operations Center, 445 Hoes Lane, Piscataway, NJ 08854-4141, by calling (732) 981-0060, or going to
+<E T="03">http://www.ieee.org/portal/site</E>
+.
 </P>
 <P>
 (c)
 <E T="03">
-Phase-in for public mobile service handsets concerning radio frequency interference.
+Phase-in of requirements relating to radio frequency interference.
 </E>
-(1) Each manufacturer of handsets used with public mobile services for use in the United States or imported for use in the United States must:
+The following applies to each manufacturer and service provider that offers wireless handsets used in the delivery of the services specified in paragraph (a) of this section and that does not fall within the
+<E T="03">de minimis</E>
+exception set forth in paragraph (e) of this section.
 </P>
 <P>
-(i) Offer to service providers at least two handset models for each air interface offered that comply with § 20.19(b)(1) by September 16, 2005; and
+(1)
+<E T="03">Manufacturers.</E>
 </P>
 <P>
-(ii) Ensure at least 50 percent of their handset offerings for each air interface offered comply with § 20.19(b)(1) by February 18, 2008.
+(i)
+<E T="03">
+Number of hearing aid-compatible handset models offered.
+</E>
+For each digital air interface for which it offers wireless handsets to service providers, each manufacturer of wireless handsets must:
 </P>
 <P>
-(2) And each provider of public mobile radio services must:
+(A) If it offers four to six models, ensure that at least two of its handset models offered to service providers comply with the requirements set forth in paragraph (b)(1) of this section; or
 </P>
 <P>
-(i)(A) Include in its handset offerings at least two handset models per air interface that comply with § 20.19(b)(1) by September 16, 2005, and make available in each retail store owned or operated by the provider all of these handset models for consumers to test in the store; or
+(B) If it offers more than six models, ensure that at least one-third of its handset models offered to service providers (rounded down to the nearest whole number) comply with the requirements set forth in paragraph (b)(1) of this section.
+<PRTPAGE P="23"/>
 </P>
 <P>
-(B) In the event a provider of public mobile radio services is using a TDMA air interface and plans to overbuild (
-<E T="03">i.e.</E>
-, replace) its network to employ alternative air interface(s), it must:
+(ii)
+<E T="03">Refresh requirement.</E>
+Beginning in calendar year 2009, and for each year thereafter that it elects to produce a new model, each manufacturer that offers any new model for a particular air interface during the calendar year must “refresh” its offerings of hearing aid-compatible handset models by offering a mix of new and existing models that comply with paragraph (b)(1) of this section according to the following requirements:
+</P>
+<P>
+(A) For manufacturers that offer three models per air interface, at least one new model rated M3 or higher shall be introduced every other calendar year.
+</P>
+<P>
+(B) For manufacturers that offer four or more models operating over a particular air interface, the number of models rated M3 or higher that must be new models introduced during that calendar year is equal to one-half of the minimum number of models rated M3 or higher required for that air interface (rounded up to the nearest whole number).
+</P>
+<P>
+(2)
+<E T="03">Tier I carriers.</E>
+For each digital air interface for which it offers wireless handsets to customers, each Tier I carrier must either:
+</P>
+<P>
+(i) Ensure that at least fifty (50) percent of the handset models it offers comply with paragraph (b)(1) of this section, calculated based on the total number of unique digital wireless handset models the carrier offers nationwide; or
+</P>
+<P>
+(ii) Ensure that it offers, at a minimum, the following specified number of handset models that comply with paragraph (b)(1) of this section:
+</P>
+<P>
+(A) Prior to February 15, 2009, at least eight (8) handset models;
+</P>
+<P>
+(B) Beginning February 15, 2009, at least nine (9) handset models; and
+</P>
+<P>
+(C) Beginning February 15, 2010, at least ten (10) handset models.
+</P>
+<P>
+(3)
+<E T="03">Service providers other than Tier I carriers.</E>
+For each digital air interface for which it offers wireless handsets to customers, each service provider other than a Tier I carrier must:
+</P>
+<P>
+(i) Prior to September 7, 2008, include in the handset models it offers at least two handset models that comply with paragraph (b)(1) of this section;
+</P>
+<P>(ii) Beginning September 7, 2008, either:</P>
+<P>
+(A) Ensure that at least fifty (50) percent of the handset models it offers comply with paragraph (b)(1) of this section, calculated based on the total number of unique digital wireless handset models the service provider offers nationwide; or
+</P>
+<P>
+(B) Ensure that it offers, at a minimum, the following specified number of handset models that comply with paragraph (b)(1) of this section:
 </P>
 <P>
 (
 <E T="03">1</E>
-) Offer two handset models that comply with § 20.19(b)(1) by September 16, 2005, to its customers that receive service from the overbuilt (
-<E T="03">i.e.</E>
-, non-TDMA) portion of its network, and make available in each retail store it owns or operates all of these handset models for consumers to test in the store:
-<PRTPAGE P="21"/>
+) Until May 15, 2009, at least eight (8) handset models;
 </P>
 <P>
 (
 <E T="03">2</E>
-) Overbuild (
-<E T="03">i.e.</E>
-, replace) its entire network to employ alternative air interface(s), and
+) Beginning May 15, 2009, at least nine (9) handset models; and
 </P>
 <P>
 (
 <E T="03">3</E>
-) Complete the overbuild by September 18, 2006; and
+) Beginning May 15, 2010, at least ten (10) handset models.
 </P>
 <P>
-(ii) Ensure that at least 50 percent of its handset models for each air interface comply with § 20.19(b)(1) by February 18, 2008, calculated based on the total number of unique digital wireless handset models the carrier offers nationwide.
-</P>
-<P>(3) Each Tier I carrier must:</P>
-<P>
-(i)(A) Include in its handset offerings four digital wireless handset models per air interface or twenty-five percent of the total number of digital wireless handset models offered by the carrier nationwide (calculated based on the total number of unique digital wireless handset models the carrier offers nationwide) per air interface that comply with § 20.19(b)(1) by September 16, 2005, and make available in each retail store owned or operated by the carrier all of these handset models for consumers to test in the store; and
+(4)
+<E T="03">All service providers.</E>
+The following requirements apply to Tier I carriers and all other service providers.
 </P>
 <P>
-(B) Include in its handset offerings five digital wireless handset models per air interface or twenty-five percent of the total number of digital wireless handset models offered by the carrier nationwide (calculated based on the total number of unique digital wireless handset models the carrier offers nationwide) per air interface that comply with § 20.19(b)(1) by September 16, 2006, and make available in each retail store owned or operated by the carrier all of these handset models for consumers to test in the store; and
+(i)
+<E T="03">In-store testing.</E>
+Each service provider must make available for consumers to test, in each retail store owned or operated by the provider, all of its handset models that comply with paragraph (b)(1) of this section.
 </P>
 <P>
-(ii) Ensure that at least 50 percent of their handset models for each air interface comply with § 20.19(b)(1) by February 18, 2008, calculated based on the total number of unique digital wireless phone models the carrier offers nationwide.
+(ii)
+<E T="03">
+Offering models with differing levels of functionality.
+</E>
+Each service provider must offer its customers a range of hearing aid-compatible models with differing levels of functionality (
+<E T="03">e.g.</E>
+, operating capabilities, features offered, prices). Each provider may determine the criteria for determining these differing levels of functionality, and must disclose its methodology to the Commission pursuant to paragraph (i)(3)(vii) of this section.
 </P>
 <P>
 (d)
 <E T="03">
-Phase-in for public mobile service handsets concerning inductive coupling.
+Phase-in of requirements relating to inductive coupling capability.
 </E>
-(1) Each manufacturer of handsets used with public mobile services for use in the United Sates or imported for use in the United States must offer to service providers at least two handset models for each air interface offered that comply with § 20.19(b)(2) by September 18, 2006.
+The following applies to each manufacturer and service provider that offers wireless handsets used in the delivery of the services specified in paragraph (a) of this section and that does not fall within the
+<E T="03">de minimis</E>
+exception set forth in paragraph (e) of this section.
 </P>
 <P>
-(2) And each provider of public mobile service must include in their handset offerings at least two handset models for each air interface that comply with § 20.19(b)(2) by September 18, 2006 and make available in each retail store owned or operated by the provider all of these handset models for consumers to test in the store.
+(1)
+<E T="03">Manufacturers.</E>
+Each manufacturer offering to service providers four or more handset models in a digital air interface for use in the United States or imported for use in the United States must ensure that it offers to service providers, at a minimum, the following number of handset models that comply with the requirements set forth in paragraph (b)(2) of this section, whichever number is greater in any given year:
+<PRTPAGE P="24"/>
+</P>
+<P>
+(i) At least two (2) handset models in that air interface; or
+</P>
+<P>
+(ii) At least the following percentage of handset models (rounded down to the nearest whole number):
+</P>
+<P>
+(A) Beginning February 15, 2009, at least twenty (20) percent of its handset models in that air interface, provided that, of any such models introduced during calendar year 2009, one model may be rated using ANSI C63.19-2006 (June 12, 2006), and all other models introduced during that year or subsequent years shall be rated using ANSI C63.19-2007 (June 8, 2007) or subsequently adopted version as may be approved pursuant to paragraph (k);
+</P>
+<P>
+(B) Beginning February 15, 2010, at least twenty-five (25) percent of its handset models in that air interface; and
+</P>
+<P>
+(C) Beginning February 15, 2011, at least one-third of its handset models in that air interface.
+</P>
+<P>
+(2)
+<E T="03">Tier I carriers.</E>
+For each digital air interface for which it offers wireless handsets to service providers, each Tier I carrier must:
+</P>
+<P>
+(i) Ensure that at least one-third of the handset models it offers comply with paragraph (b)(2) of this section, calculated based on the total number of unique digital wireless handset models the carrier offers nationwide; or
+</P>
+<P>
+(ii) Ensure that it offers, at a minimum, the following specified number of handset models that comply with paragraph (b)(2) of this section:
+</P>
+<P>
+(A) Prior to February 15, 2009, at least three (3) handset models;
+</P>
+<P>
+(B) Beginning February 15, 2009, at least five (5) handset models;
+</P>
+<P>
+(C) Beginning February 15, 2010, at least seven (7) handset models; and
+</P>
+<P>
+(D) Beginning February 15, 2011, at least ten (10) handset models.
+</P>
+<P>
+(3)
+<E T="03">Service providers other than Tier I carriers.</E>
+For each digital air interface for which it offers wireless handsets to customers, each service provider other than a Tier I carrier must:
+</P>
+<P>
+(i) Prior to September 7, 2008, include in the handset models it offers at least two handset models that comply with paragraph (b)(2) of this section;
+</P>
+<P>(ii) Beginning September 7, 2008, either:</P>
+<P>
+(A) Ensure that at least one-third of the handset models it offers comply with paragraph (b)(2) of this section, calculated based on the total number of unique digital wireless handset models the carrier offers nationwide; or
+</P>
+<P>
+(B) Ensure that it offers, at a minimum, the following specified number of handset models that comply with paragraph (b)(2) of this section:
+</P>
+<P>
+(
+<E T="03">1</E>
+) Until May 15, 2009, at least three (3) handset models;
+</P>
+<P>
+(
+<E T="03">2</E>
+) Beginning May 15, 2009, at least five (5) handset models;
+</P>
+<P>
+(
+<E T="03">3</E>
+) Beginning May 15, 2010, at least seven (7) handset models; and
+</P>
+<P>
+(
+<E T="03">4</E>
+) Beginning May 15, 2011, at least ten (10) handset models.
+</P>
+<P>
+(4)
+<E T="03">All service providers.</E>
+The following requirements apply to Tier I carriers and all other service providers.
+</P>
+<P>
+(i)
+<E T="03">In-store testing.</E>
+Each service provider must make available for consumers to test, in each retail store owned or operated by the provider, all of its handset models that comply with paragraph (b)(2) of this section.
+</P>
+<P>
+(ii)
+<E T="03">
+Offering models with differing levels of functionality.
+</E>
+Each service provider must offer its customers a range of hearing aid-compatible models with differing levels of functionality (
+<E T="03">e.g.</E>
+, operating capabilities, features offered, prices). Each provider may determine the criteria for determining these differing levels of functionality, and must disclose its methodology to the Commission pursuant to paragraph (i)(3)(vii) of this section.
 </P>
 <P>
 (e)
 <E T="03">De minimis exception.</E>
-(1) Manufacturers or mobile service providers that offer two or fewer digital wireless handsets in the U.S. are exempt from the requirements of this section. For mobile service providers that obtain handsets only from manufacturers that offer two or fewer digital wireless phone models in the U.S., the service provider would likewise be exempt from the requirements of this section.
+(1) Manufacturers or service providers that offer two or fewer digital wireless handsets in an air interface in the United States are exempt from the requirements of this section in connection with that air interface, except with regard to the reporting requirements in paragraph (i) of this section. Service providers that obtain handsets only from manufacturers that offer two or fewer digital wireless handset models in an air interface in the United States are likewise exempt from the requirements of this section other than paragraph (i) of this section in connection with that air interface.
 </P>
 <P>
-(2) Manufacturers or mobile service providers that offer three digital wireless handset models, must make at least one compliant phone model in two years. Mobile service providers that obtain handsets only from manufacturers that offer three digital wireless phone models in the U.S. would be required to offer at least one compliant handset model.
+(2) Manufacturers or service providers that offer three digital wireless handset models in an air interface must offer at least one handset model compliant with paragraphs (b)(1) and
+<PRTPAGE P="25"/>
+(b)(2) of this section in that air interface. Service providers that obtain handsets only from manufacturers that offer three digital wireless handset models in an air interface in the United States are required to offer at least one handset model in that air interface compliant with paragraphs (b)(1) and (b)(2) of this section.
 </P>
 <P>
 (f)
+<E T="03">Labeling and disclosure requirements.</E>
+(1)
 <E T="03">Labeling requirements.</E>
-Handsets used with public mobile services that are hearing aid compatible, as defined in § 20.19(b) of this chapter, shall clearly display the U-rating, as defined in 20.19(b)(1), (2) on the packaging material of the handset. An explanation of the ANSI C63.19-2001 U-rating system shall also be included in the owner's manual or as an insert in the packaging material for the handset.
+Manufacturers and service providers shall ensure that handsets that are hearing aid-compatible, as defined in paragraph (b) of this section, clearly display the rating, as defined in paragraphs (b)(1) and (b)(2) of this section, on the packaging material of the handset. In the event that a hearing aid-compatible handset achieves different radio interference or inductive coupling ratings over different air interfaces or different frequency bands, the RF interference reduction and inductive coupling capability ratings displayed shall be the lowest rating assigned to that handset for any air interface or frequency band. An explanation of the ANSI C63.19 rating system must also be included in the device's user's manual or as an insert in the packaging material for the handset.
+</P>
+<P>
+(2)
+<E T="03">
+Disclosure requirement relating to handsets with Wi-Fi capability.
+</E>
+Beginning December 7, 2008, each manufacturer and service provider shall ensure that, wherever it provides hearing aid compatibility ratings for a handset model that incorporates a Wi-Fi air interface, it discloses to consumers, by clear and effective means (
+<E T="03">e.g.</E>
+, inclusion of call-out cards or other media, revisions to packaging materials, supplying of information on Web sites) that the handset has not been rated for hearing aid compatibility with respect to Wi-Fi operation.
 </P>
 <P>
 (g)
-<E T="03">Enforcement.</E>
-Enforcement of this section is hereby delegated to those states which adopt this section and provide for enforcement. The procedures followed by a state to enforce this section shall provide a 30-day period after a complaint is filed, during which time state personnel shall attempt to resolve a dispute on an informal basis. If a state has not adopted or incorporated this section, or failed to act within 6 months from the filing of a complaint with the state public utility commission, the Commission will accept such complaints. A written notification to the complainant that the state believes action is unwarranted is not a failure to act. The procedures set
-<PRTPAGE P="22"/>
-forth in part 68, subpart E of this chapter are to be followed.
+<E T="03">Model designation requirements.</E>
+Where a manufacturer has made physical changes to a handset that result in a change in the hearing aid compatibility rating under paragraph (b)(1) or (b)(2) of this section, the altered handset must be given a model designation distinct from that of the handset prior to its alteration.
 </P>
-<CITA>
-[68 FR 54175, Sept. 16, 2003, as amended at 70 FR 43325, July 27, 2005]
-</CITA>
+<P>
+(h)
+<E T="03">Web site requirements.</E>
+Beginning January 15, 2009, each manufacturer and service provider subject to this section that operates a publicly-accessible Web site must make available on its Web site a list of all hearing aid-compatible models currently offered, the ratings of those models, and an explanation of the rating system. Each service provider must also specify on its Web site, based on the levels of functionality that the service provider has defined, the level that each hearing aid-compatible model falls under as well as an explanation of how the functionality of the handsets varies at the different levels.
+</P>
+<P>
+(i)
+<E T="03">Reporting requirements.</E>
+</P>
+<P>
+(1)
+<E T="03">Reporting dates.</E>
+Manufacturers shall submit reports on efforts toward compliance with the requirements of this section on January 15, 2009 and on July 15, 2009, and on an annual basis on July 15 thereafter. Service providers shall submit reports on efforts toward compliance with the requirements of this section on January 15, 2009, and annually thereafter. Information in the reports must be up-to-date as of the last day of the calendar month preceding the due date of the report.
+</P>
+<P>
+(2)
+<E T="03">Content of manufacturer reports.</E>
+Reports filed by manufacturers must include:
+</P>
+<P>
+(i) Digital wireless handset models tested, since the most recent report, for compliance with the applicable hearing aid compatibility technical ratings;
+</P>
+<P>
+(ii) Compliant handset models offered to service providers since the most recent report, identifying each model by marketing model name/number(s) and FCC ID number;
+</P>
+<P>
+(iii) For each compliant model, the air interface(s) and frequency band(s) over which it operates, the hearing aid compatibility ratings for each frequency band and air interface under ANSI Standard C63.19, the ANSI Standard C63.19 version used, and the months in which the model was available to service providers since the most recent report;
+</P>
+<P>
+(iv) Non-compliant models offered to service providers since the most recent report, identifying each model by marketing model name/number(s) and FCC ID number;
+</P>
+<P>
+(v) For each non-compliant model, the air interface(s) over which it operates and the months in which the
+<PRTPAGE P="26"/>
+model was available to service providers since the most recent report;
+</P>
+<P>
+(vi) Total numbers of compliant and non-compliant models offered to service providers for each air interface as of the time of the report;
+</P>
+<P>
+(vii) Any instance, as of the date of the report or since the most recent report, in which multiple compliant or non-compliant devices were marketed under separate model name/numbers but constitute a single model for purposes of the hearing aid compatibility rules, identifying each device by marketing model name/number and FCC ID number;
+</P>
+<P>(viii) Status of product labeling;</P>
+<P>(ix) Outreach efforts; and</P>
+<P>
+(x) If the manufacturer maintains a public Web site, the Web site address of the page(s) containing the information regarding hearing aid-compatible handset models required by paragraph (h) of this section.
+</P>
+<NOTE>
+<HD SOURCE="HED">
+Note to Paragraph
+<E T="01">(i)(2)</E>
+:
+</HD>
+<P>
+For reports due on January 15, 2009, information provided with respect to paragraphs (i)(2)(ii) through(i)(2)(v) and (i)(2)(vii) and (i)(2)(viii) need be provided only for the six-month period from July 1 to December 31, 2008.
+</P>
+</NOTE>
+<P>
+(3)
+<E T="03">Content of service provider reports.</E>
+Reports filed by service providers must include:
+</P>
+<P>
+(i) Compliant handset models offered to customers since the most recent report, identifying each model by marketing model name/number(s) and FCC ID number;
+</P>
+<P>
+(ii) For each compliant model, the air interface(s) and frequency band(s) over which it operates, the hearing aid compatibility ratings for each frequency band and air interface under ANSI Standard C63.19, and the months in which the model was available since the most recent report;
+</P>
+<P>
+(iii) Non-compliant models offered since the most recent report, identifying each model by marketing model name/number(s) and FCC ID number;
+</P>
+<P>
+(iv) For each non-compliant model, the air interface(s) over which it operates and the months in which the model was available since the most recent report;
+</P>
+<P>
+(v) Total numbers of compliant and non-compliant models offered to customers for each air interface over which the service provider offers service as of the time of the report;
+</P>
+<P>
+(vi) Information related to the retail availability of compliant handset models;
+</P>
+<P>
+(vii) The levels of functionality into which the compliant handsets fall and an explanation of the service provider's methodology for determining levels of functionality;
+</P>
+<P>(viii) Status of product labeling;</P>
+<P>(ix) Outreach efforts; and</P>
+<P>
+(x) If the service provider maintains a public Web site, the Web site address of the page(s) containing the information regarding hearing aid-compatible handset models required by paragraph (h) of this section.
+</P>
+<NOTE>
+<HD SOURCE="HED">
+Note to Paragraph
+<E T="01">(i)(3)</E>
+:
+</HD>
+<P>
+For reports due on January 15, 2009, information provided with respect to paragraphs (i)(3)(i) through (i)(3)(iv) and (i)(3)(vi) through (i)(3)(viii) need be provided only for the six-month period from July 1 to December 31, 2008.
+</P>
+</NOTE>
+<P>
+(4)
+<E T="03">Format.</E>
+The Wireless Telecommunications Bureau is delegated authority to approve or prescribe formats and methods for submission of these reports. Any format that the Bureau may approve or prescribe shall be made available on the Bureau's Web site.
+</P>
+<P>
+(j)
+<E T="03">Enforcement.</E>
+Enforcement of this section is hereby delegated to those states that adopt this section and provide for enforcement. The procedures followed by a state to enforce this section shall provide a 30-day period after a complaint is filed, during which time state personnel shall attempt to resolve a dispute on an informal basis. If a state has not adopted or incorporated this section, or failed to act within six (6) months from the filing of a complaint with the state public utility commission, the Commission will accept such complaints. A written notification to the complainant that the state believes action is unwarranted is not a failure to act. The procedures set forth in part 68, subpart E of this chapter are to be followed.
+</P>
+<P>
+(k)
+<E T="03">Delegation of rulemaking authority.</E>
+</P>
+<P>
+(1) The Chief of the Wireless Telecommunications Bureau and the Chief of the Office of Engineering and Technology are delegated authority, by notice-and-comment rulemaking, to issue an order amending this section to the
+<PRTPAGE P="27"/>
+extent necessary to adopt technical standards for additional frequency bands and/or air interfaces upon the establishment of such standards by ANSI Accredited Standards Committee C63
+<E T="51">TM</E>
+, provided that the standards do not impose with respect to such frequency bands or air interfaces materially greater obligations than those imposed on other services subject to this section. Any new obligations on manufacturers and Tier I carriers pursuant to paragraphs (c) through (i) of this section as a result of such standards shall become effective no less than one year after release of the order adopting such standards, and any new obligations on other service providers shall become effective no less than 15 months after the release of such order.
+</P>
+<P>
+(2) The Chief of the Wireless Telecommunications Bureau and the Chief of the Office of Engineering and Technology are delegated authority, by notice-and-comment rulemaking if required by statute or otherwise in the public interest, to issue an order amending this section to the extent necessary to approve any version of the technical standards for radio frequency interference or inductive coupling adopted subsequently to ANSI C63.19-2007 for use in determining whether a wireless handset meets the appropriate rating over frequency bands and air interfaces for which technical standards have previously been adopted either by the Commission or pursuant to paragraph (k)(1) of this section. This delegation is limited to the approval of changes to the technical standard that do not raise major compliance issues. Further, by such approvals, the Chiefs may only permit, and not require, the use of such subsequent versions of standard document ANSI C63.19 to establish hearing aid compatibility.
+</P>
+<CITA>[73 FR 25587, May 7, 2008]</CITA>
 </SECTION>
 <SECTION>
